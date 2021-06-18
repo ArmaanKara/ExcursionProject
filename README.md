@@ -29,7 +29,7 @@
 - VSCode
 
 ## Screenshot
-
+![Excursion webpage finished product](./resources/images/Screenshot_of_excursion.png)
 
 
 ## Setup
