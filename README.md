@@ -11,40 +11,47 @@
 * [Contact](#contact)
 <!-- * [License](#license) -->
 ## General Information
-- This fun project is to show case my intermeidate Javscript skills. I hope you enjoy it!
+- This fun project is to show case my intermeidate HTML and CSS skills. I hope you enjoy it!
 
-- Every time a user runs a program, they should get a new, randomized output.
+- Load the file and see how the video autoplays!
 - Project Objectives:
-  - Build a message generator program using JavaScript
+  - Build a webpage using HTML and CSS
   - Use Git version control
   - Use command line
   - Local development
-- This is a portfolio project to showcase intermediate Javascript, command line and version control skills.
-- The purpose of this project is to take in the sign of the user and generate a randomized (and coherent) prediction and adivce for that sign.
+- This is a portfolio project to showcase intermediate web design, implementation, and version control skills.
 - I started this project following the Codecademy's Full Stack Engineering Path.
 ## Technologies Used
-- Javascript ES6 
+- HTML5
+- CSS3
 - Git and Github
 - Command Line
 - VSCode
-- Node.js
+
+## Screenshot
+
+
 
 ## Setup
 
-For this project to work in your own computer, you need to install node.js. Clone this repository in your own MAC/PC and follow usage instructions.
+For this project to work in your own computer, you need to install HMTL5 and CSS3. Clone this repository in your own MAC/PC and follow usage instructions.
 ## Usage
 
-After downloading this folder (cloning the repository in your computer), go to the files location and open the terminal. Type the following code:
+After downloading this folder (cloning the repository on to your local development environment), go to the files location and open up your terminal. Type the following code:
 
-node filename.js
+open index.html
+
+ or
+
+double-click on the index.html file and it should open in your main browser.
 
 ## Project Status
-_In progress_
+_Completed_
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by Codecademy
-- This project couldn't have been completed without StackOVerflow and MDN Web Docs!
+- This project was inspired by Codecademy.
+- This project couldn't have been completed without StackOverflow and w3schools.com!
 
 ## Contact
 Created by @armaankara - feel free to contact me!
