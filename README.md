@@ -31,6 +31,7 @@
 ## Screenshot
 ![Excursion webpage finished product](./resources/images/Screenshot_of_excursion.png)
 
+The Iphone in action with this gif: ![](./resources/videos/Excursiongiphy.gif)
 
 ## Setup
 
